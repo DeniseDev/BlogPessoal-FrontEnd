@@ -14,7 +14,7 @@ import { InicioComponent } from './inicio/inicio.component';
 import { TemaComponent } from './tema/tema.component';
 
 @NgModule({
-  declarations: [
+  declarations: [ 
     AppComponent,
     MenuComponent,
     RodapeComponent,
